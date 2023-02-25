@@ -1,4 +1,5 @@
-# odoo-easymanage
+# Odoo + EasyManage
+
 Modernize Odoo With EasyManage GraphQL and Flutter Mobile App (10 Tables Only)
 
 ## Odoo | EasyManage GraphQL | Flutter App
@@ -30,7 +31,7 @@ Views | 20 |  296	| See Details	|
 
 We are providing you with Github repositories, of projects already built on EasyManage, and generated code, against Odoo 16.
 
-* **odoo-easymanage-sample**
+* **odoo-easymanage** (sample repository)
     - Includes 10 tables
 * **odoo-easymanage-full**
     - Includes 828 tables (808 db tables + 20 db Views)
@@ -41,12 +42,20 @@ This is the greatest thing to get started...
 
 Since Odoo has many-many tables the project gets very-very large. We are providing a *sample* project repository with 10 tables to get you started. Then extend it by copying more table related folders and files, as many needed, from *full* repository.
 
-:::note
-Start with downloading and setting up odoo-easymanage-sample repository!
-:::
+---
 
-:::warning
+**Tip**
+
+Start with downloading and setting up odoo-easymanage-sample repository!
+
+---
+
+---
+
+**Caution**
+
 Downloading and setting up odoo-easymanage-full repository requires more computer and internet resources, needs to allocate higher memory sizes for heap/etc. Its better to set it up on large server computer.
 
 Rather than running *full* projects, copy table-related folders/files to *sample* project and run.
-:::
+
+---
