@@ -46,7 +46,7 @@ Since Odoo has many-many tables the project gets very-very large. We are providi
 
 **Tip**
 
-Start with downloading and setting up odoo-easymanage-sample repository!
+Start with downloading and setting up odoo-easymanage repository!
 
 ---
 
@@ -59,3 +59,10 @@ Downloading and setting up odoo-easymanage-full repository requires more compute
 Rather than running *full* projects, copy table-related folders/files to *sample* project and run.
 
 ---
+
+
+### Get started here
+
+To setup and try out this repository, Please follow documentations at:
+* EasyManage Docs [Deploy Self-Hosted] (https://easymanage.com/res/docs/start-building#self-hosted)
+* Github Tutorial pages [Learn EasyManage](https://github.com/TeamEasymanage/learn-easymanage) section [A. Build With EasyManage](https://github.com/TeamEasymanage/learn-easymanage#a-build-with-easymanage)
