@@ -42,24 +42,15 @@ This is the greatest thing to get started...
 
 Since Odoo has many-many tables the project gets very-very large. We are providing a *sample* project repository with 10 tables to get you started. Then extend it by copying more table related folders and files, as many needed, from *full* repository.
 
----
 
-**Tip**
+> **Tip** : Start with downloading and setting up odoo-easymanage repository!
 
-Start with downloading and setting up odoo-easymanage repository!
 
----
-
----
-
-**Caution**
-
-Downloading and setting up odoo-easymanage-full repository requires more computer and internet resources, needs to allocate higher memory sizes for heap/etc. Its better to set it up on large server computer.
-
-Rather than running *full* projects, copy table-related folders/files to *sample* project and run.
-
----
-
+> **Caution** :
+>
+> Downloading and setting up odoo-easymanage-full repository requires more computer and internet resources, needs to allocate higher memory sizes for heap/etc. Its better to set it up on large server computer.
+> 
+> Rather than running *full* projects, copy table-related folders/files to *sample* project and run.
 
 ### Get started here
 
